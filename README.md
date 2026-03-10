@@ -246,10 +246,4 @@ Potential features that could be added:
 - Leave history and analytics
 - Mobile app version
 
-## Support
 
-For issues or questions, please create an issue in the repository.
-
-## License
-
-This project is built for educational and demonstration purposes.
